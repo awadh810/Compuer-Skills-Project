@@ -1,0 +1,32 @@
+BASISC STEPS TO DO ON GIT:
+git --version 
+git config --global user.name "......"
+git config --global user.email "......"
+mkdir projectName
+cd projectName
+git init
+
+ADD YOUR FILES TO THE FOLDER AND THEN CHECK IT BY COMMAND :  ls
+git status
+git add FILENAME
+git add --all FILESNAME
+
+AND THE SVAE YOUR WORK BY THE COMMAND : 
+git commit -m " ENTER MESSAGE THAT DISPLY WHAT THE WORK YOU DO IT "
+git log 
+
+git branch
+ADD NEW BRANCH 
+git branch BranchName
+git checkout BranchName
+git checkout -b BranchName
+git merge BranchName
+git checkout -d BranchName
+
+
+
+
+
+
+
+
